@@ -1,0 +1,18 @@
+<div class="section">
+        <div class="main-heading">
+            <h2>Services</h2>
+            <p>
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Mollitia, dolore! Nisi, expedita! Quas veritatis harum iusto incidunt laboriosam vel aut in commodi distinctio voluptas at dolore repellendus odit, maxime vero!
+            </p>
+        </div>
+      </div>
+
+.design ::before {
+  content: " ";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(0 0 0 / 60%);
+}
